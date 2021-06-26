@@ -5,7 +5,7 @@ Tengo 26 años y estudio una tecnicatura en informatica aplicada en UTN.
 <img src="https://user-images.githubusercontent.com/62678180/123495760-5b49c180-d5fb-11eb-9f72-36248ceb5ea8.png">
 
 
-Estoy aprendiendo : 
+Aprendí y continuo aprendiendo : 
 
 <img width="18px" hight="18px" alt="" src="https://user-images.githubusercontent.com/62678180/123495942-17a38780-d5fc-11eb-970c-4c4bb0b44cc1.png"> Html
 <br>
