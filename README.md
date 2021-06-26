@@ -16,9 +16,8 @@ Estoy aprendiendo :
 <img width="18px" hight="18px" alt="" src="https://user-images.githubusercontent.com/62678180/123496167-32c2c700-d5fd-11eb-8fe0-106a3625ce8e.png"> React
 <br>
 <img width="18px" hight="18px" alt="" src="https://user-images.githubusercontent.com/62678180/123496203-4a9a4b00-d5fd-11eb-88e9-ef341511b48b.png"> Node
-
-<img width="18px" hight="18px" alt="" src="https://user-images.githubusercontent.com/62678180/123496118-fabb8400-d5fc-11eb-869c-231675be2d0f.png"> JAVA
 <br>
+<img width="18px" hight="18px" alt="" src="https://user-images.githubusercontent.com/62678180/123496118-fabb8400-d5fc-11eb-869c-231675be2d0f.png"> JAVA
 
 
 (Y pienso seguir aprendiendo muchos mas) 💪 
